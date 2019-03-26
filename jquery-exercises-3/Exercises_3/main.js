@@ -1,11 +1,19 @@
  // Write your solution here
-  var nummer = 69;
-$('#knopPlus').on('click', function() {
-  nummer += 69;
-  $('#text').html(nummer)
-})
+ /* $(document).on('input', '#inputNum', function(){
+   var numberEnter = parseFloat($( "input[name='inputX']").val(), 10);
+   $("#text").text(numberEnter);
+ });
+*/
+ var randomNum = Math.floor((Math.random() * 100) + 1);
 
-$('#knopMin').on('click', function() {
-  nummer -= 69;
-  $('#text').html(nummer)
-})
+ $('#raadnekeer').on("click", function() {
+   if($('#inputNum').val() < randomNum) {
+     $('#text').html("<strong id='Incorrect'>Incorrect! Guess Higher.</strong>");
+   }
+   else if($('inputNum').val() > randomNum) {
+     $('#text').html("<strong id='Incorrect'>Incorrect! Guess Lower.</strong>");
+   }
+   else {
+     $('#text').html("<strong id='Correct'>Correct!</strong>");
+   }
+ });
