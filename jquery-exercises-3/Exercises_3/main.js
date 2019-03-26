@@ -8,12 +8,12 @@
 
  $('#raadnekeer').on("click", function() {
    if($('#inputNum').val() < randomNum) {
-     $('#text').html("<strong id='Incorrect'>Incorrect! Guess Higher.</strong>");
+     $('#text').html("<strong>Fout! HOGER.</strong>");
    }
    else if($('inputNum').val() > randomNum) {
-     $('#text').html("<strong id='Incorrect'>Incorrect! Guess Lower.</strong>");
+     $('#text').html("<strong>Fout! LAGER.</strong>");
    }
    else {
-     $('#text').html("<strong id='Correct'>Correct!</strong>");
+     $('#text').html("<strong>Correct!</strong>");
    }
  });
