@@ -13,10 +13,10 @@
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/jquery-exercises-3/Exercises_4/main.js">
+            <entry file="file://$PROJECT_DIR$/jquery-exercises-3/Exercises_5/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="289">
-                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+                <state relative-caret-position="425">
+                  <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
                 </state>
               </provider>
             </entry>
@@ -26,10 +26,10 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/jquery-exercises-3/Exercises_4/index.html">
+            <entry file="file://$PROJECT_DIR$/jquery-exercises-3/Exercises_5/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+                <state relative-caret-position="170">
+                  <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
@@ -48,6 +48,8 @@
         <option value="$PROJECT_DIR$/jquery-exercises-3/Exercises_3/main.js" />
         <option value="$PROJECT_DIR$/jquery-exercises-3/Exercises_4/index.html" />
         <option value="$PROJECT_DIR$/jquery-exercises-3/Exercises_4/main.js" />
+        <option value="$PROJECT_DIR$/jquery-exercises-3/Exercises_5/main.js" />
+        <option value="$PROJECT_DIR$/jquery-exercises-3/Exercises_5/index.html" />
       </list>
     </option>
   </component>
@@ -78,7 +80,7 @@
               <item name="jQuery-exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="jQuery-exercises" type="462c0819:PsiDirectoryNode" />
               <item name="jquery-exercises-3" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises_4" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises_5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -119,12 +121,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553620769532</updated>
-      <workItem from="1553620770939" duration="5174000" />
+      <workItem from="1553620770939" duration="5546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5174000" />
+    <option name="totallyTimeSpent" value="5546000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -169,6 +171,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-exercises-3/Exercises_4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jquery-exercises-3/Exercises_4/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -176,10 +185,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-exercises-3/Exercises_4/index.html">
+    <entry file="file://$PROJECT_DIR$/jquery-exercises-3/Exercises_5/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        <state relative-caret-position="425">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-exercises-3/Exercises_5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
