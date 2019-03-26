@@ -10,10 +10,11 @@
    if($('#inputNum').val() < randomNum) {
      $('#text').html("<strong>Fout! HOGER.</strong>");
    }
-   else if($('inputNum').val() > randomNum) {
+   else if($('#inputNum').val() > randomNum) {
      $('#text').html("<strong>Fout! LAGER.</strong>");
    }
    else {
      $('#text').html("<strong>Correct!</strong>");
    }
+   console.log(randomNum)
  });
